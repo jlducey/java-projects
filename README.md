@@ -1,4 +1,4 @@
-<img align="right" src="https://raw.github.com/wiki/zxing/zxing/zxing-logo.png"/>
+<img align="right" src="https://github.com/jlducey/java-projects/blob/master/pigout.jpg"/>
 
 ## Fair Ticketing Code Repository
 To get our White paper, please visit: http://jimdjimdjimdtesthostingpackage-com.stackstaging.com/wordpress/
