@@ -7,7 +7,7 @@ To get our White paper, please visit: http://jimdjimdjimdtesthostingpackage-com.
 | --------------------------------------------------------------- | -----------
 | [QR HTML5 ticket](https://github.com/ftylitak/qzxing)           | QR HTML5 ticket writing example
 | [QR Reader](https://webqr.com/index.html)                       | QR HTML5 javascript code reader
-| [Seat Reservations](https://github.com/ftylitak/qzxing)         | Seat reservation javascript demo
+| [Seat Reservations](http://jsc.mm-lamp.com/)                    | Seat reservation javascript demo
 
 
 ## Components
