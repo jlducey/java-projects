@@ -11,9 +11,13 @@ To get our White paper, please visit: http://jimdjimdjimdtesthostingpackage-com.
 
 
 ## Components
+Seat Reservations https://github.com/mateuszmarkowski/jQuery-Seat-Charts
+HTML5 QR writer
+HTML5 QR reader
+Database Schema
 
 
-## Links
+## Visit our website
 
 * [fairticketing.org](http://jimdjimdjimdtesthostingpackage-com.stackstaging.com/wordpress/)
 
