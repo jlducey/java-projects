@@ -1,5 +1,8 @@
 <img align="right" src="https://github.com/jlducey/java-projects/blob/master/pigout.jpg"/>
 
+Java projects were to determine if apps in java were way to go with ticketing project. Golang, HTML5 and PostgreSQL won out. Was just starting to use Github with the Java, previously had a local NT-CVS repository integrated with Eclipse.
+
+
 ## Fair Ticketing Code Repository
 To get our White paper, please visit: http://jimdjimdjimdtesthostingpackage-com.stackstaging.com/wordpress/
 
