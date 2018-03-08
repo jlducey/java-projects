@@ -6,6 +6,8 @@ Java projects were to determine if apps in java were way to go with ticketing pr
 ## Fair Ticketing Code Repository
 To get our White paper, please visit: http://jimdjimdjimdtesthostingpackage-com.stackstaging.com/wordpress/
 
+Note: _This pic is a filler to remind me to update my pics, its not at a pizza place, but rather at favorite local BBQ._
+
 | Demo                                                            | Description
 | --------------------------------------------------------------- | -----------
 | [QR HTML5 ticket](https://github.com/ftylitak/qzxing)           | QR HTML5 ticket writing example
